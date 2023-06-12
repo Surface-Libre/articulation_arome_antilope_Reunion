@@ -1,0 +1,4 @@
+GDAL==3.3.3
+mil==1.0.5
+netCDF4==1.6.4
+osgeo_utils==0.0.0
